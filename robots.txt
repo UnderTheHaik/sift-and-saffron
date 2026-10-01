@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://underthehaik.github.io/sift-and-saffron/sitemap.xml
