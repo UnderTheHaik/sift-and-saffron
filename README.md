@@ -66,3 +66,17 @@ The committed dist is configured for this GitHub Pages path. After regenerating 
 https://underthehaik.github.io/sift-and-saffron/
 
 The committed dist is configured for this GitHub Pages path. After regenerating from originals, reapply the deployment base path before publishing.
+
+
+## Public showcase
+
+https://underthehaik.github.io/sift-and-saffron/
+
+The committed dist is configured for this GitHub Pages path. After regenerating from originals, reapply the deployment base path before publishing.
+
+
+## Public showcase
+
+https://underthehaik.github.io/sift-and-saffron/
+
+The committed dist is configured for this GitHub Pages path. After regenerating from originals, reapply the deployment base path before publishing.
